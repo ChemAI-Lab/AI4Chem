@@ -1,0 +1,30 @@
+version: 1
+project:
+  title: "AI Methods for Materials Science"
+  description: "Course materials built with MyST Markdown."
+  authors:
+    - name: "Rodrigo A. Vargas-Hernandez"
+  keywords:
+    - artificial intelligence
+    - materials science
+    - machine learning
+    - chemistry
+  license: "CC-BY-4.0"
+  toc:
+    - file: website/intro.md
+    - title: "Course Logistics"
+      children:
+        - file: website/syllabus.md
+        - file: website/resources.md
+    - title: "Topics"
+      children:
+        - file: website/modules/01-linear_models.md
+        - file: website/modules/01-linear_models.md
+site:
+  template: book-theme
+  title: "AI Methods for Materials Science"
+  options:
+    analytics: false
+    favicon: website/favicon.png
+    logo: website/course_logo.png
+    style: website/custom.css

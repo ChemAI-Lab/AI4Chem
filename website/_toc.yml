@@ -1,0 +1,18 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Course Logistics
+    chapters:
+      - file: syllabus
+      - file: resources
+  - caption: Foundations
+    chapters:
+      - file: modules/01-foundations
+      - file: modules/02-data-and-featurization
+      - file: modules/03-modeling-and-learning
+  - caption: Applications
+    chapters:
+      - file: modules/04-structure-generation
+      - file: modules/05-simulation-automation
+      - file: modules/06-ethics-and-reproducibility
+

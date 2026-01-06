@@ -1,0 +1,11 @@
+:root {
+  /* Bump nav logo size while keeping aspect ratio */
+  --logo-height: 64px;
+}
+
+header .logo img,
+header .site-logo img,
+nav .logo img {
+  height: var(--logo-height) !important;
+  width: auto !important;
+}

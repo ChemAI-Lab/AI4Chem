@@ -1,0 +1,22 @@
+title: AI Methods for Materials Science
+author: Rodrigo A. Vargas-Hernandez
+logo: course_logo.png
+execute:
+  execute_notebooks: auto
+  timeout: 90
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - deflist
+    - dollarmath
+    - linkify
+    - substitution
+html:
+  use_repository_button: true
+  base_url: /AI4Chem
+  # use_issues_button: false
+  # use_multitoc_numbering: true
+repository:
+  url: https://github.com/RodrigoAVargasHdz/AI4Chem # Your repo URL
+  path_to_book: '' # The path to your book, if it's not in the root
+  branch: main # Your default branch (e.g., main or master)
