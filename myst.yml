@@ -16,10 +16,11 @@ project:
       children:
         - file: website/syllabus.md
         - file: website/resources.md
-    - title: "Topics"
+        - file: website/announcements.md
+    - title: "Lectures"
       children:
         - file: website/modules/01-linear_models.md
-        - file: website/modules/01-linear_models.md
+        # - file: website/modules/01-linear_models.md
 site:
   template: book-theme
   title: "AI Methods for Materials Science"

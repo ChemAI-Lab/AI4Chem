@@ -2,7 +2,7 @@
 
 This course covers an introduction of topics and tools which serve as the basic for data modeling in materials science. The course aims to cover from supervised learning for property prediction, image recognition and graph-based models to introductory unsupervised algorithms for data compression and reconstruction.  The course assumes a basic knowledge of Python, specifically Numpy, Pandas, Scipy, and Matplotlib. 
 
-The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/RodrigoAVargasHdz/AI4Chem/raw/main/website/modules/Chem_799_W2026.pdf)
+The outline of the course can be found [![Download PDF](https://img.shields.io/badge/Download_PDF-Click_Here-blue.svg)](https://github.com/ChemAI-Lab/AI4Chem/raw/main/website/modules/Chem_799_W2026.pdf)
 
 
 ## What this course covers
@@ -17,4 +17,5 @@ The outline of the course can be found [![Download PDF](https://img.shields.io/b
 
 - {doc}`syllabus`
 - {doc}`resources`
+- {doc}`announcements`
 <!-- - {doc}`modules/01-foundations` -->

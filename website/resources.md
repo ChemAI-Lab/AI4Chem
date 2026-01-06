@@ -5,6 +5,7 @@
 1.	[Pattern Recognition and Machine Learning, C. M. Bishop.](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 2.	[Probabilistic Machine Learning: An Introduction, K. P. Murphy.](https://probml.github.io/pml-book/book1.html)
 3.	[Deep Learning for Molecules & Materials, A. D. White.](https://dmol.pub/index.html)
+4.  [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 
 ## Datasets to explore
