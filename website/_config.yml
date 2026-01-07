@@ -17,6 +17,6 @@ html:
   # use_issues_button: false
   # use_multitoc_numbering: true
 repository:
-  url: https://github.com/RodrigoAVargasHdz/AI4Chem # Your repo URL
+  url: https://github.com/ChemAI-Lab/AI4Chem # Your repo URL
   path_to_book: '' # The path to your book, if it's not in the root
   branch: main # Your default branch (e.g., main or master)
