@@ -7,8 +7,7 @@
 3.	[Deep Learning for Molecules & Materials, A. D. White.](https://dmol.pub/index.html)
 4.  [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 5.  [Gaussian Processes for Machine LearningOpen Access](https://direct.mit.edu/books/oa-monograph-pdf/2514321/book_9780262256834.pdf), C. E. Rasmussen, C. K. I. Williams
-
-
+6.  [Scientific Python Lectures](https://github.com/scipy-lectures/scientific-python-lectures)
 ## Datasets to explore
 
 - Materials Project (crystal structures and properties).
