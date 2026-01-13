@@ -6,7 +6,7 @@ The outline of the course can be found [![Download PDF](https://img.shields.io/b
 
 ## Lectures
 1. Linear models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/AI4Chem/blob/main/website/modules/01-linear_models.ipynb)
-
+2. Kernel function [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/AI4Chem/blob/main/website/modules/02-kernel_function.ipynb)
 
 <!-- 
 jupyter book build --html --strict
