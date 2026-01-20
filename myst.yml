@@ -21,6 +21,7 @@ project:
       children:
         - file: website/modules/01-linear_models.md
         - file: website/modules/02-kernel_models.md
+        - file: website/modules/03-neural_networks.md
         # - file: website/modules/03-neural_networks.md
         # - file: website/modules/04-gradient_descent.md
 site:
