@@ -1,5 +1,9 @@
 # Syllabus
 
+## Course Lectures
+* **Tuesday** 3:30PM -- 4:30PM
+* **Wednesday** 2:30PM -- 4:30PM
+* 
 ## Course overview
 
 This course introduces practical AI tools for materials science, blending lectures with hands-on notebooks. Students will learn to frame scientific questions as machine learning and data science tasks, build reliable models, and integrate them with simulation or experimental pipelines.
