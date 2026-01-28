@@ -10,6 +10,7 @@ parts:
       - file: modules/01-foundations
       - file: modules/02-data-and-featurization
       - file: modules/03-modeling-and-learning
+      - file: modules/04-torch
   - caption: Applications
     chapters:
       - file: modules/04-structure-generation
