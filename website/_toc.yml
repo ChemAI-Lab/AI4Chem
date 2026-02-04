@@ -11,6 +11,7 @@ parts:
       - file: modules/02-data-and-featurization
       - file: modules/03-modeling-and-learning
       - file: modules/04-torch
+      - file: modules/05-molecular_representations
   - caption: Applications
     chapters:
       - file: modules/04-structure-generation
