@@ -1,3 +1,3 @@
 # Molecular Representations
 1. **How can we represent molecules in a computer?**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/AI4Chem/blob/main/website/modules/05-molecular_representations.ipynb)
-2. **ASE Tutorial**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/AI4Chem/blob/main/website/modules/06-atomic_simulation_environment)
+2. **ASE Tutorial**:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChemAI-Lab/AI4Chem/blob/main/website/modules/06-atomic_simulation_environment.ipynb)
