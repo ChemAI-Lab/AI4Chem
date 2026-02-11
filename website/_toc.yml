@@ -12,6 +12,7 @@ parts:
       - file: modules/03-modeling-and-learning
       - file: modules/04-torch
       - file: modules/05-molecular_representations
+      - file: modules/06-bayesian_optimization
   - caption: Applications
     chapters:
       - file: modules/04-structure-generation

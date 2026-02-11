@@ -24,6 +24,7 @@ project:
         - file: website/modules/03-neural_networks.md
         - file: website/modules/04-torch.md
         - file: website/modules/05-molecular_representations.md
+        - file: website/modules/06-bayesian_optimization.md
         # - file: website/modules/03-neural_networks.md
         # - file: website/modules/04-gradient_descent.md
 site:
